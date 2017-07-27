@@ -1,6 +1,6 @@
 # SwiftDataManger
 
-copy ServerJsonManager  in your project  alloc class
+copy ServerJsonManager  in your project  
 
 
 copy func testCameraView () method in class where ever you want to hit any web services
